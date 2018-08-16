@@ -38,10 +38,10 @@ public class Test{
 		Connection cx = null;
 		MysqlDataSource dataSource = new MysqlDataSource();
 		dataSource.setUser("root");
-		dataSource.setPassword("root");
-		dataSource.setServerName("20.0.3.9");
+		dataSource.setPassword("D3mo@dmin");
+		dataSource.setServerName("10.10.2.55");
 		dataSource.setPortNumber(3306);
-		dataSource.setDatabaseName("client_db1");
+		dataSource.setDatabaseName("demoDB");
 		 cx = dataSource.getConnection();
 		 System.out.println("CONNECTION SUCCESSFULL");
 		
