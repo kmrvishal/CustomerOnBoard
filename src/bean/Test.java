@@ -39,7 +39,7 @@ public class Test{
 		MysqlDataSource dataSource = new MysqlDataSource();
 		dataSource.setUser("root");
 		dataSource.setPassword("D3mo@dmin");
-		dataSource.setServerName("10.10.2.55");
+		dataSource.setServerName("10.10.2.14");
 		dataSource.setPortNumber(3306);
 		dataSource.setDatabaseName("demoDB");
 		 cx = dataSource.getConnection();
