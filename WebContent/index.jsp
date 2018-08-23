@@ -135,7 +135,7 @@
 			href="#myPage" title="To Top"> <span
 			class="glyphicon glyphicon-chevron-up"></span>
 		</a>
-		<p>Developed by Mohammad Raghib Mumtaz</p>
+		<p>Developed by Kumar Vishal</p>
 		</footer>
 </body>
 </html>
